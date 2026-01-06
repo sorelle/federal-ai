@@ -7,3 +7,4 @@ Files should be named based on the agency abbreviation. If a CSV file is provide
 | Agency Abbreviation | Updated date, if noted | Source file URL
 | ------------------- | ---------------------- | ----------------
 | FHFA                | 10/27/2025             | https://www.fhfa.gov/document/fhfa_2025_ai_inventory.csv
+| OPM                 | N/A                    | https://www.opm.gov/ai/ 
